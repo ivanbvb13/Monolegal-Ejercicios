@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\HD_POO_Ejemplos\bin\Debug\HD_POO_Ejemplos.exe.config
+C:\Users\Asus\source\repos\HD_POO_Ejemplos\bin\Debug\HD_POO_Ejemplos.exe
+C:\Users\Asus\source\repos\HD_POO_Ejemplos\bin\Debug\HD_POO_Ejemplos.pdb
+C:\Users\Asus\source\repos\HD_POO_Ejemplos\obj\Debug\HD_POO_Ejemplos.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\HD_POO_Ejemplos\obj\Debug\HD_POO_Ejemplos.exe
+C:\Users\Asus\source\repos\HD_POO_Ejemplos\obj\Debug\HD_POO_Ejemplos.pdb

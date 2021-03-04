@@ -1,0 +1,6 @@
+C:\Users\Asus\Desktop\Monolegal-Pro\POO_Ejemplo\bin\Debug\POO_Ejemplo.exe.config
+C:\Users\Asus\Desktop\Monolegal-Pro\POO_Ejemplo\bin\Debug\POO_Ejemplo.exe
+C:\Users\Asus\Desktop\Monolegal-Pro\POO_Ejemplo\bin\Debug\POO_Ejemplo.pdb
+C:\Users\Asus\Desktop\Monolegal-Pro\POO_Ejemplo\obj\Debug\POO_Ejemplo.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Monolegal-Pro\POO_Ejemplo\obj\Debug\POO_Ejemplo.exe
+C:\Users\Asus\Desktop\Monolegal-Pro\POO_Ejemplo\obj\Debug\POO_Ejemplo.pdb
