@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Selenium_Prueba\bin\Debug\Selenium_Prueba.exe.config
+C:\Users\Asus\Desktop\Selenium_Prueba\bin\Debug\Selenium_Prueba.exe
+C:\Users\Asus\Desktop\Selenium_Prueba\bin\Debug\Selenium_Prueba.pdb
+C:\Users\Asus\Desktop\Selenium_Prueba\bin\Debug\WebDriver.dll
+C:\Users\Asus\Desktop\Selenium_Prueba\bin\Debug\WebDriver.xml
+C:\Users\Asus\Desktop\Selenium_Prueba\obj\Debug\Selenium_Prueba.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Selenium_Prueba\obj\Debug\Selenium_Prueba.csproj.CopyComplete
+C:\Users\Asus\Desktop\Selenium_Prueba\obj\Debug\Selenium_Prueba.exe
+C:\Users\Asus\Desktop\Selenium_Prueba\obj\Debug\Selenium_Prueba.pdb
+C:\Users\Asus\Desktop\Selenium_Prueba\obj\Debug\Selenium_Prueba.csproj.CoreCompileInputs.cache
